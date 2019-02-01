@@ -3,4 +3,4 @@ prefix=3
 game=Type | 3play
 stayinchannel=true
 songinstatus=false
-token=NTM5NDI4MzIwMjc5MDAzMTM2.DzY8ag.uhMsHWYnP2ZFBVPjmXZbdbAtrm0
+token=NTM5NDEyMjExNzE0NjIxNDUy.DzY--g.FtMwtrMQOdx0dw4t8ICCXWiY2h0
